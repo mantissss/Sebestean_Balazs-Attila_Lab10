@@ -1,0 +1,48 @@
+D:\Laptop\FSEGA\Anul 3\Medii de programare Laboratoare\Laboratoare\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\bin\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.deps.json
+D:\Laptop\FSEGA\Anul 3\Medii de programare Laboratoare\Laboratoare\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\bin\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.dll
+D:\Laptop\FSEGA\Anul 3\Medii de programare Laboratoare\Laboratoare\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\bin\Debug\netstandard2.0\ref\Sebestean_Balazs-Attila_Lab10.dll
+D:\Laptop\FSEGA\Anul 3\Medii de programare Laboratoare\Laboratoare\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\bin\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.pdb
+D:\Laptop\FSEGA\Anul 3\Medii de programare Laboratoare\Laboratoare\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Laptop\FSEGA\Anul 3\Medii de programare Laboratoare\Laboratoare\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Laptop\FSEGA\Anul 3\Medii de programare Laboratoare\Laboratoare\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.AssemblyInfoInputs.cache
+D:\Laptop\FSEGA\Anul 3\Medii de programare Laboratoare\Laboratoare\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.AssemblyInfo.cs
+D:\Laptop\FSEGA\Anul 3\Medii de programare Laboratoare\Laboratoare\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.dll
+D:\Laptop\FSEGA\Anul 3\Medii de programare Laboratoare\Laboratoare\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\ref\Sebestean_Balazs-Attila_Lab10.dll
+D:\Laptop\FSEGA\Anul 3\Medii de programare Laboratoare\Laboratoare\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.pdb
+D:\Laptop\FSEGA\Anul 3\Medii de programare Laboratoare\Laboratoare\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.csproj.CoreCompileInputs.cache
+D:\Laptop\FSEGA\Anul 3\Medii de programare Laboratoare\Laboratoare\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Laptop\FSEGA\Anul 3\Medii de programare Laboratoare\Laboratoare\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\ListEntryPage.xaml.g.cs
+D:\Laptop\FSEGA\Anul 3\Medii de programare Laboratoare\Laboratoare\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
+D:\Laptop\FSEGA\Anul 3\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\bin\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.deps.json
+D:\Laptop\FSEGA\Anul 3\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\bin\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.dll
+D:\Laptop\FSEGA\Anul 3\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\bin\Debug\netstandard2.0\ref\Sebestean_Balazs-Attila_Lab10.dll
+D:\Laptop\FSEGA\Anul 3\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\bin\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.pdb
+D:\Laptop\FSEGA\Anul 3\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.csprojAssemblyReference.cache
+D:\Laptop\FSEGA\Anul 3\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Laptop\FSEGA\Anul 3\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\ListEntryPage.xaml.g.cs
+D:\Laptop\FSEGA\Anul 3\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
+D:\Laptop\FSEGA\Anul 3\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Laptop\FSEGA\Anul 3\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.csproj.CoreCompileInputs.cache
+D:\Laptop\FSEGA\Anul 3\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.AssemblyInfoInputs.cache
+D:\Laptop\FSEGA\Anul 3\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.AssemblyInfo.cs
+D:\Laptop\FSEGA\Anul 3\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Laptop\FSEGA\Anul 3\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.dll
+D:\Laptop\FSEGA\Anul 3\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\ref\Sebestean_Balazs-Attila_Lab10.dll
+D:\Laptop\FSEGA\Anul 3\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.pdb
+D:\Laptop\FSEGA\Anul 3\Medii de programare Laboratoare\Laboratoare\10\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.csprojAssemblyReference.cache
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\bin\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.deps.json
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\bin\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.dll
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\bin\Debug\netstandard2.0\ref\Sebestean_Balazs-Attila_Lab10.dll
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\bin\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.pdb
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.csprojAssemblyReference.cache
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\ListEntryPage.xaml.g.cs
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.csproj.CoreCompileInputs.cache
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.AssemblyInfoInputs.cache
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.AssemblyInfo.cs
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.dll
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\ref\Sebestean_Balazs-Attila_Lab10.dll
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.pdb

@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "pjgr7BZQey1ueQx4r7SyGx8jP3G8ns0UfRYAEep7ymkqfc9HE8R8d3RDBV0xtOOxu3qkzXLpiU6VqKREcXuP6Q==",
+  "dgSpecHash": "5paEJBdmn1XXsOEKElrCe4531hCyrOSKrgsC4+InFOAkLsRHGZi5iscl9JS7h7zSJOAEMBufw8NdIG5YnbaniQ==",
   "success": true,
-  "projectFilePath": "D:\\Laptop\\FSEGA\\Anul 3\\Medii de programare Laboratoare\\Laboratoare\\10\\Sebestean_Balazs-Attila_Lab10\\Sebestean_Balazs-Attila_Lab10.iOS\\Sebestean_Balazs-Attila_Lab10.iOS.csproj",
+  "projectFilePath": "D:\\Sebestean_Balazs-Attila_Lab10\\Sebestean_Balazs-Attila_Lab10.iOS\\Sebestean_Balazs-Attila_Lab10.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sebes\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\sebes\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\sebes\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\sebes\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\sebes\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\sebes\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\sebes\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\sebes\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\sebes\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
     "C:\\Users\\sebes\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
   ],
