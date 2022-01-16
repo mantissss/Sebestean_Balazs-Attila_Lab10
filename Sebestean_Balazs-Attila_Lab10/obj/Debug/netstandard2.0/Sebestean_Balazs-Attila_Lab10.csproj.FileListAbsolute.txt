@@ -39,10 +39,11 @@ D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstan
 D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\ListEntryPage.xaml.g.cs
 D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
 D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
-D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.csproj.CoreCompileInputs.cache
 D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.AssemblyInfoInputs.cache
 D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.AssemblyInfo.cs
-D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\XamlC.stamp
 D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.dll
 D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\ref\Sebestean_Balazs-Attila_Lab10.dll
 D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.pdb
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\ProductPage.xaml.g.cs
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\Sebestean_Balazs-Attila_Lab10.csproj.CoreCompileInputs.cache
+D:\Sebestean_Balazs-Attila_Lab10\Sebestean_Balazs-Attila_Lab10\obj\Debug\netstandard2.0\XamlC.stamp

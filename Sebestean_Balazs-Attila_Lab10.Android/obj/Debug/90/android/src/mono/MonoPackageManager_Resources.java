@@ -4,8 +4,10 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "Sebestean_Balazs-Attila_Lab10.Android.dll" comes first in this list. */
 		"Sebestean_Balazs-Attila_Lab10.Android.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"Sebestean_Balazs-Attila_Lab10.dll",
 		"SQLite-net.dll",
+		"SQLiteNetExtensions.dll",
 		"SQLitePCLRaw.batteries_v2.dll",
 		"SQLitePCLRaw.core.dll",
 		"SQLitePCLRaw.lib.e_sqlite3.android.dll",

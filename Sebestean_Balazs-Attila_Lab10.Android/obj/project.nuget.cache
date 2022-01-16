@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "K89aMW/3A8Qg98A4qBdEr0FZUcqUawi2Eo/zF2tLlYYgJ0vQXQR9vbrjUq6Sd23yWjrENJj28C60Svk/WP21yw==",
+  "dgSpecHash": "24u3lOi9YdmHg5vSPTPIA4YYq+6i+HL6gZftWQYYtA2Hi4JlvJN/e5yX9W1IUkJwjIw76u2XeH7yqr1tuYtQig==",
   "success": true,
   "projectFilePath": "D:\\Sebestean_Balazs-Attila_Lab10\\Sebestean_Balazs-Attila_Lab10.Android\\Sebestean_Balazs-Attila_Lab10.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sebes\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\sebes\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\sebes\\.nuget\\packages\\sqlitenetextensions\\2.1.0\\sqlitenetextensions.2.1.0.nupkg.sha512",
     "C:\\Users\\sebes\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
     "C:\\Users\\sebes\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\sebes\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.android\\2.0.4\\sqlitepclraw.lib.e_sqlite3.android.2.0.4.nupkg.sha512",

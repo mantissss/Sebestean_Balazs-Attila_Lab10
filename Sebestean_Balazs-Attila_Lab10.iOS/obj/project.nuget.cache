@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5paEJBdmn1XXsOEKElrCe4531hCyrOSKrgsC4+InFOAkLsRHGZi5iscl9JS7h7zSJOAEMBufw8NdIG5YnbaniQ==",
+  "dgSpecHash": "/btTyWJcyQsOojebnolrLAyDbcU69L1NMFTyE6Oxmc3H87a3dLIHSgCuNCvY3KbiU0QPFUYVb7B+xU/crWqT0w==",
   "success": true,
   "projectFilePath": "D:\\Sebestean_Balazs-Attila_Lab10\\Sebestean_Balazs-Attila_Lab10.iOS\\Sebestean_Balazs-Attila_Lab10.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sebes\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\sebes\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\sebes\\.nuget\\packages\\sqlitenetextensions\\2.1.0\\sqlitenetextensions.2.1.0.nupkg.sha512",
     "C:\\Users\\sebes\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
     "C:\\Users\\sebes\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\sebes\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
